@@ -1,0 +1,48 @@
+[
+  {
+    "items": [
+      "Effective Java",
+      "Effective Java"
+    ],
+    "status": "NEW",
+    "custId": 1,
+    "orderDate": "2024-05-01"
+  },
+  {
+    "items": [
+      "Java 8 in Action",
+      "Java Concurrency in practice",
+      "Java Database"
+    ],
+    "status": "",
+    "custId": 2,
+    "orderDate": "2024-05-01"
+  },
+  {
+    "items": [
+    ],
+    "status": "NEW",
+    "custId": 3,
+    "orderDate": "2024-05-01"
+  },
+  {
+    "items": [
+      "Java 8 in Action",
+      "Java Concurrency in practice",
+      "Java Database"
+    ],
+    "status": "NEW",
+    "custId": 3,
+    "orderDate": "2024-05-01aGg"
+  },
+  {
+    "items": [
+      "Java 8 in Action",
+      "Java Concurrency in practice",
+      "Java Database"
+    ],
+    "status": "NEW",
+    "custId": 1,
+    "orderDate": "2024-05-01"
+  }
+]

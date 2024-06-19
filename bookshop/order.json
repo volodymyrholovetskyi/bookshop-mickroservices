@@ -1,0 +1,242 @@
+[
+  {
+    "status": "NEW",
+    "custId": 1,
+    "grossValue": "12.90",
+    "orderDate": "2024-05-01"
+  },
+  {
+    "status": "NEW",
+    "custId": 1,
+    "grossValue": "12.90",
+    "orderDate": "2024-05-01"
+  },
+  {
+    "status": "NEW",
+    "custId": 1000,
+    "grossValue": "12.90",
+    "orderDate": "2024-05-01"
+  },
+  {
+    "status": "NEW",
+    "custId": 1,
+    "grossValue": "12.90",
+    "orderDate": "2024-05-02"
+  },
+  {
+    "status": "PAID",
+    "custId": 1,
+    "grossValue": "12.90",
+    "orderDate": "2024-05-03"
+  },
+  {
+    "status": "NEW",
+    "custId": 1000,
+    "grossValue": "12.90",
+    "orderDate": "2024-05-04"
+  },
+  {
+    "status": "PAID",
+    "custId": 1,
+    "grossValue": "12.90",
+    "orderDate": "2024-05-05"
+  },
+  {
+    "status": "NEW",
+    "custId": 1,
+    "grossValue": "12.90",
+    "orderDate": "2024-05-06"
+  },
+  {
+    "status": "NEW",
+    "custId": 1,
+    "grossValue": "12.90",
+    "orderDate": "2024-05-07"
+  },
+  {
+    "status": "SHIPPED",
+    "custId": 1,
+    "grossValue": "12.90",
+    "orderDate": "2024-05-08"
+  },
+  {
+    "status": "SHIPPED",
+    "custId": 1,
+    "grossValue": "12.90",
+    "orderDate": "2024-05-09"
+  },
+  {
+    "status": "CANCELED",
+    "custId": 1,
+    "grossValue": "12.90",
+    "orderDate": "2024-05-10"
+  },
+  {
+    "status": "NEW",
+    "custId": 2,
+    "grossValue": "12.90",
+    "orderDate": "2024-05-01"
+  },
+  {
+    "status": "NEW",
+    "custId": 2,
+    "grossValue": "12.90",
+    "orderDate": "2024-05-01"
+  },
+  {
+    "status": "NEW",
+    "custId": 1000,
+    "grossValue": "12.90",
+    "orderDate": "2024-05-01"
+  },
+  {
+    "status": "NEW",
+    "custId": 2,
+    "grossValue": "12.90",
+    "orderDate": "2024-05-02"
+  },
+  {
+    "status": "PAID",
+    "custId": 2,
+    "grossValue": "12.90",
+    "orderDate": "2024-05-03"
+  },
+  {
+    "status": "NEW",
+    "custId": 1000,
+    "grossValue": "12.90",
+    "orderDate": "2024-05-04"
+  },
+  {
+    "status": "PAID",
+    "custId": 2,
+    "grossValue": "12.90",
+    "orderDate": "2024-05-05"
+  },
+  {
+    "status": "NEW",
+    "custId": 2,
+    "grossValue": "12.90",
+    "orderDate": "2024-05-06"
+  },
+  {
+    "status": "NEW",
+    "custId": 2,
+    "grossValue": "12.90",
+    "orderDate": "2024-05-07"
+  },
+  {
+    "status": "SHIPPED",
+    "custId": 2,
+    "grossValue": "12.90",
+    "orderDate": "2024-05-08"
+  },
+  {
+    "status": "SHIPPED",
+    "custId": 2,
+    "grossValue": "12.90",
+    "orderDate": "2024-05-09"
+  },
+  {
+    "status": "CANCELED",
+    "custId": 2,
+    "grossValue": "13.90",
+    "orderDate": "2024-05-10"
+  },
+  {
+    "status": "CANCE",
+    "custId": 2,
+    "grossValue": "13.90",
+    "orderDate": "2024-05-10"
+  },
+  {
+    "status": "SHIPPED",
+    "custId": 3,
+    "grossValue": "13.90",
+    "orderDate": "2024-05-01"
+  },
+  {
+    "status": "CANCELED",
+    "custId": 3,
+    "grossValue": "13.90",
+    "orderDate": "2024-05-02"
+  },
+  {
+    "status": "NEW",
+    "custId": 3,
+    "grossValue": "13.90",
+    "orderDate": "2024-05-03"
+  },
+  {
+    "status": "CANCE",
+    "custId": 4,
+    "grossValue": "13.90",
+    "orderDate": "2024-05-01"
+  },
+  {
+    "status": "SHIPPED",
+    "custId": 4,
+    "grossValue": "13.90",
+    "orderDate": "2024-05-02"
+  },
+  {
+    "status": "CANCELED",
+    "custId": 4,
+    "grossValue": "13.90",
+    "orderDate": "2024-05-03"
+  },
+  {
+    "status": "NEW",
+    "custId": 4,
+    "grossValue": "13.90",
+    "orderDate": "2024-05-04"
+  },
+  {
+    "status": "NEW",
+    "custId": 4,
+    "grossValue": "13.90",
+    "orderDate": "2024-05-05"
+  },
+  {
+    "status": "NEW",
+    "custId": 0,
+    "grossValue": "13.90",
+    "orderDate": "2024-05-05"
+  },
+  {
+    "status": "CANCE",
+    "custId": 5,
+    "grossValue": "13.90",
+    "orderDate": "2024-05-01"
+  },
+  {
+    "status": "SHIPPED",
+    "custId": 5,
+    "grossValue": "13.90",
+    "orderDate": "2024-05-02"
+  },
+  {
+    "status": "CANCELED",
+    "custId": 5,
+    "grossValue": "13.90",
+    "orderDate": "2024-05-03"
+  },
+  {
+    "status": "PAID",
+    "custId": 5,
+    "grossValue": "13.90",
+    "orderDate": "2024-05-04"
+  },
+  {
+    "status": "NEW",
+    "custId": 5,
+    "grossValue": "13.90",
+    "orderDate": "2024-05-05"
+  },
+  {
+    "status": "NEW",
+    "custId": 0,
+    "grossValue": "13.90",
+    "orderDate": "2024-05-05"
+  }
+]
